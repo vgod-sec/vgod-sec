@@ -12,7 +12,7 @@
 - Hands-on with **OWASP Top 10, Burp Suite, Recon, Exploitation, and Privilege Escalation**.  
 - Building tools, scripts, and write-ups to help the security community.  
 - **GitHub username:** `vgod-sec` – Find all my security projects and CTF write-ups here.  
-- **Googleable profile:** My name "Shivam Singh" and username `vgod-sec` make this portfolio visible to the world.  
+
 
 ---
 
