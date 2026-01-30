@@ -1,46 +1,33 @@
-# 👋 Hi, I'm Shivam Singh  
+# 👋 Hi, I'm Shivam Singh
 
-🚀 **Penetration Tester & Application Security Engineer**  
-🔒 Ethical Hacker | Bug Hunter | CTF Player  
-
----
-
-## 🧑‍💻 About Me
-- Passionate about offensive security and ethical hacking.  
-- 90+ CTFs solved on TryHackMe with 13 badges earned.  
-- Experienced in **web, API, mobile, and cloud penetration testing**.  
-- Hands-on with **OWASP Top 10, Burp Suite, Recon, Exploitation, and Privilege Escalation**.  
-- Building tools, scripts, and write-ups to help the security community.  
-- **GitHub username:** `vgod-sec` – Find all my security projects and CTF write-ups here.  
+ | Offensive Security & Ethical Hacker & Application security 
 
 
----
+I am passionate about Offensive Security and Ethical Hacking, with a strong focus on real-world exploitation and attacker-mindset security testing.
 
-## 📂 Featured Projects
-- 🔹 [Web Security Academy Labs Write-ups](https://github.com/vgod-sec) – 70+ complete lab solutions with step-by-step exploitation.  
-- 🔹 [TryHackMe CTF Write-ups](https://github.com/vgod-sec) – Detailed write-ups for 90+ CTF challenges and badges earned.  
-- 🔹 [Bug Bounty Methodology](https://github.com/vgod-sec) – My recon and exploitation methodology for bug hunting.  
-- 🔹 [Payload Execution & Bypass Analysis](https://github.com/vgod-sec) – 100+ tested payloads with WAF/IDS/IPS bypass analysis.  
-- 🔹 `VGR-1` – A bash script for automated URL parameter attack suggestions.  
+I have hands-on experience in identifying, exploiting, and understanding security vulnerabilities across modern web applications, APIs, cloud environments, and mobile platforms.
 
----
+## Skills & Experience
 
-## 🏆 Achievements
-- 🥇 Completed **all labs of PortSwigger Web Security Academy**.  
-- 🥇 Ranked on TryHackMe with **90+ CTFs solved**.  
-- 🛡️ Discovered real-world vulnerabilities like **Heroku API key exposure** and **open admin panels**.  
+- Solved 150+ Capture The Flag CTF challenges on TryHackMe, earning 13 security badges
+- Completed all PortSwigger Web Security Academy labs including advanced and expert-level labs
+- Practical experience in Web, API, Mobile, and Cloud Penetration Testing
+- Strong understanding of OWASP Top 10 vulnerabilities
+- Hands-on with Burp Suite, manual reconnaissance, exploitation techniques, and privilege escalation
+- Focused on logic flaws, edge cases, and security bypass techniques beyond automated scanning
+
+## Open Source & Community Work
+
+- Building custom security tools and scripts
+- Writing detailed CTF solutions and security write-ups
+- Sharing practical knowledge to help the cybersecurity community grow
+
+## GitHub Projects
+
+GitHub Username: vgod-sec  
+Explore my security tools, penetration testing scripts, and CTF write-ups here:  
+https://github.com/vgod-sec
 
 ---
 
-## 📫 Connect with Me
-- GitHub: [github.com/vgod-sec](https://github.com/vgod-sec)  
-- LinkedIn: [linkedin.com/in/shivam-thakur1](https://www.linkedin.com/in/shivam-thakur1)  
-
-
----
-
-## Author
-Shivam Singh  
-Penetration Tester & Bug Hunter  
-GitHub: [https://github.com/vgod-sec](https://github.com/vgod-sec)  
-LinkedIn: [https://www.linkedin.com/in/shivam-thakur1](https://www.linkedin.com/in/shivam-thakur1)
+Keywords: Offensive Security, Ethical Hacking, Penetration Testing, Web Security, API Security, Bug Bounty, OWASP, Burp Suite, TryHackMe, PortSwigger
