@@ -28,6 +28,9 @@ GitHub Username: vgod-sec
 Explore my security tools, penetration testing scripts, and CTF write-ups here:  
 https://github.com/vgod-sec
 
----
+Connect with me on LinkedIn for professional updates, security insights, and career discussions:  
+https://www.linkedin.com/in/Shivam-singh11
+
+
 
 Keywords: Offensive Security, Ethical Hacking, Penetration Testing, Web Security, API Security, Bug Bounty, OWASP, Burp Suite, TryHackMe, PortSwigger
